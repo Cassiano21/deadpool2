@@ -1,0 +1,33 @@
+
+.dp{
+    background-color: red;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto
+}
+.wv{
+    background-color:yellow;
+    padding-top: 1px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto
+    
+}
+.topo{
+    text-align: center;
+    background-image: url(img/capa.jpg);
+    background-size: cover;
+    height:500px;
+    background-attachment: fixed;
+}
+.meio1{
+    text-align: justify;
+    background-color: white;
+}
+.meio2{
+    background-image: url(img/img1.jpg);
+    height: 600px;
+    background-attachment: fixed;
+    background-size: cover;
+}
